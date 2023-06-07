@@ -48,3 +48,5 @@ Limitations:
 Future Work:
 - I did not get a chance to work in defensive data into my predictions because of time, but I would love to get a chance to do that.
 - I want to try to see if I can extrapolate this idea to more than just QB’s, maybe to all players.
+
+**Link to Presentation: https://docs.google.com/presentation/d/19auLWopYNFvvp_Nc6A9QkM4fMxhQCasxcKh9fNqpELE/edit?usp=sharing**
